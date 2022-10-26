@@ -1,6 +1,5 @@
-/target/
-/target/*
-.classpath
-.project
-.settings
-.settings/*
+.DS_Store
+*.tgz
+package-lock.json
+target/
+node_modules/
